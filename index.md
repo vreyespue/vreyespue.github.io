@@ -4,7 +4,6 @@ layout: home
 
 Hi, I am Vicente. I work as a Software/ML Engineer at 
 [Rewe digital](https://www.rewe-digital.com/) 
-in Cologne, Germany 
 ([profile](https://www.linkedin.com/in/vreyespue/)). 
 My&nbsp;major interest is at the intersection of machine learning pipelines, 
 big data analytics and cloud computing platforms.

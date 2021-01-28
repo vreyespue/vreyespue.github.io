@@ -13,7 +13,7 @@ I&nbsp;have
 [commits](https://github.com/vreyespue) and
 [answers](https://stackoverflow.com/users/6261650/vreyespue)
 related to&nbsp;these topics. I have also
-[papers](https://scholar.google.de/citations?user=XnVpRFkAAAAJ) in the field
-of neural coding.
+[papers](https://scholar.google.de/citations?user=XnVpRFkAAAAJ) in the fields
+of machine learning and neural coding.
 
 Thanks for visiting!

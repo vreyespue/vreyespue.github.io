@@ -20,8 +20,11 @@ minima:
 #header_pages:
 # - about.md
 
+header_pages:
+
 # Build settings
 theme: minima
+  skin: solarized
 
 #plugins:
 # - jekyll-feed

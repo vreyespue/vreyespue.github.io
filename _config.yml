@@ -10,6 +10,12 @@ twitter_username: vreyespue
 github_username: vreyespue
 linkedin_username: vreyespue
 
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+  skin: dark
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
@@ -18,13 +24,7 @@ header_pages:
 
 # Build settings
 theme: minima
-
 #plugins:
 # - jekyll-feed
 # - jekyll-seo-tag
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-  skin: solarized-dark

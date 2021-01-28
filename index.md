@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img align="right" src="foto.jpg" width="150" margin="50">
+<img align="right" src="foto.jpg" width="150">
 
 Hi, I am Vicente. I work as a Software/ML Engineer at
 [Rewe digital](https://www.rewe-digital.com/)
@@ -12,7 +12,7 @@ big data analytics and cloud computing platforms.
 I&nbsp;have
 [commits](https://github.com/vreyespue) and
 [answers](https://stackoverflow.com/users/6261650/vreyespue)
-related to these topics. I have also
+related to&nbsp;these topics. I have also
 [papers](https://scholar.google.de/citations?user=XnVpRFkAAAAJ) in the field
 of neural coding.
 

@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img align="right" src="foto.jpg" width="140">
+<img align="right" src="foto.jpg" width="140" style="border-radius:50%">
 
 Hi, I am Vicente. I work as a Software/ML Engineer at
 [Rewe digital](https://www.rewe-digital.com/)

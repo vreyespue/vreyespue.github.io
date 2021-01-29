@@ -4,6 +4,8 @@ email: vr.web at outlook dot com
 description: > # this means to ignore newlines until "show_excerpts:"
   Personal website built with Jekyll and hosted on GitHub
 
+markdown: kramdown
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 twitter_username: vreyespue

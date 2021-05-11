@@ -5,7 +5,7 @@ title: Hi!
 
 <img align="right" src="foto.jpg" width="140" style="border-radius:50%">
 
-I am Vicente. I work as a Backend/ML Engineer at
+I am Vicente. I work as a Software/ML Engineer at
 [Rewe digital](https://www.rewe-digital.com/){:target="\_blank" rel="noopener"}
 ([profile](https://www.linkedin.com/in/vreyespue/){:target="\_blank" rel="noopener"}).
 My&nbsp;major interest is at the intersection of machine learning pipelines,

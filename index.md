@@ -13,7 +13,7 @@ big data analytics and cloud computing platforms.
 I&nbsp;have
 [commits](https://github.com/vreyespue){:target="\_blank" rel="noopener"} and
 [answers](https://stackoverflow.com/users/6261650){:target="\_blank" rel="noopener"}
-related to&nbsp;these topics. I have also
+related to these topics. I have also
 [papers](https://scholar.google.de/citations?user=XnVpRFkAAAAJ){:target="\_blank" rel="noopener"}
 in the fields of machine learning and neural coding.
 

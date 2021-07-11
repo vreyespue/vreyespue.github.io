@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img align="right" src="network.jpg" width="170">
+<img align="right" src="network.jpg" width="170" style="margin-left:10px">
 
 Here you can find my profile in several professional and social networks:
 

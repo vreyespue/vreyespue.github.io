@@ -5,11 +5,11 @@ title: Hi!
 
 <img align="right" src="foto.jpg" width="140" style="border-radius:50%">
 
-I am Vicente. I work as a Backend Software Engineer at
+I am Vicente. I work as a Software Engineer at
 [Rewe digital](https://www.rewe-digital.com/){:target="\_blank" rel="noopener"}
 ([profile](https://www.linkedin.com/in/vreyespue/){:target="\_blank" rel="noopener"}).
-My&nbsp;major interest is at the intersection of machine learning pipelines and microservice 
-architectures.
+My&nbsp;major interest is at the intersection of microservice architectures and 
+machine learning pipelines.
 I&nbsp;have
 [commits](https://github.com/vreyespue){:target="\_blank" rel="noopener"} and
 [answers](https://stackoverflow.com/users/6261650){:target="\_blank" rel="noopener"}

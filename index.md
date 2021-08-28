@@ -15,6 +15,6 @@ I&nbsp;have
 [answers](https://stackoverflow.com/users/6261650){:target="\_blank" rel="noopener"}
 related to these topics. I have also
 [papers](https://scholar.google.de/citations?user=XnVpRFkAAAAJ){:target="\_blank" rel="noopener"}
-in the fields of machine learning and neural coding.
+in the fields of machine learning and neuroscience.
 
 Thanks for visiting!

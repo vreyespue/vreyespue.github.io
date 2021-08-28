@@ -9,7 +9,7 @@ I am Vicente. I work as a Backend/Data Engineer at
 [Rewe digital](https://www.rewe-digital.com/){:target="\_blank" rel="noopener"}
 ([profile](https://www.linkedin.com/in/vreyespue/){:target="\_blank" rel="noopener"}).
 My&nbsp;major interest is at the intersection of microservice architectures, 
-machine learning pipelines and cloud computing.
+machine learning data pipelines and cloud computing.
 I&nbsp;have
 [commits](https://github.com/vreyespue){:target="\_blank" rel="noopener"} and
 [answers](https://stackoverflow.com/users/6261650){:target="\_blank" rel="noopener"}

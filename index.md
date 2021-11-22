@@ -3,7 +3,7 @@ layout: home
 title: Hi!
 ---
 
-<img align="right" src="foto.jpg" width="140" style="border-radius:50%;margin-left:10px">
+<img align="right" src="foto.jpg" width="140" style="border-radius:50%;margin-left:10px;margin-bottom:10px">
 
 I am Vicente 👋 developer, runner, machine learning enthusiast working at
 [Rewe&nbsp;digital](https://www.rewe-digital.com/){:target="\_blank" rel="noopener"}

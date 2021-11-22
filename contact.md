@@ -6,7 +6,7 @@ permalink: /contact/
 
 <img align="right" src="network.jpg" width="170" style="margin-left:10px">
 
-Here you can find my profile in several professional and social networks:
+Here you can find my profile in several professional and social networks 🌍
 
 - [linkedin.com/in/vreyespue](https://www.linkedin.com/in/vreyespue){:target="\_blank" rel="noopener"}
 - [twitter.com/vreyespue](https://twitter.com/vreyespue){:target="\_blank" rel="noopener"}
@@ -15,4 +15,4 @@ Here you can find my profile in several professional and social networks:
 - [scholar.google.com/citations?user=XnVpRFkAAAAJ](https://scholar.google.com/citations?user=XnVpRFkAAAAJ){:target="\_blank" rel="noopener"}
 - [researchgate.net/profile/Vicente_Reyes-Puerta](https://www.researchgate.net/profile/Vicente_Reyes-Puerta){:target="\_blank" rel="noopener"}
 
-Please contact me if you have any questions. Very welcome! :)
+Please contact me if you have any questions. Very welcome! 🙂

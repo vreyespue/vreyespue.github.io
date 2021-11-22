@@ -11,7 +11,7 @@ I am Vicente 👋 developer, runner, machine learning enthusiast working at
 I&nbsp;have
 [commits](https://github.com/vreyespue){:target="\_blank" rel="noopener"} and
 [answers](https://stackoverflow.com/users/6261650){:target="\_blank" rel="noopener"}
-related to my job topics 🤖 I have also
+related to my job topics 🤖 I&nbsp;have also
 [papers](https://scholar.google.de/citations?user=XnVpRFkAAAAJ){:target="\_blank" rel="noopener"}
 in the fields of machine learning and neuroscience 🧠
 

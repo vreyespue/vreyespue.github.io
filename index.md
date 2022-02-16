@@ -5,7 +5,7 @@ title: Hi!
 
 <img align="right" src="foto.jpg" width="140" style="border-radius:50%;margin-left:10px;margin-bottom:10px">
 
-I am Vicente 👋 developer, data & machine learning enthusiast working at
+I am Vicente 👋 Software/Data Engineer working at
 [Rewe&nbsp;digital](https://www.rewe-digital.com/){:target="\_blank" rel="noopener"}
 ([profile](https://www.linkedin.com/in/vreyespue/){:target="\_blank" rel="noopener"}) 🚀
 I&nbsp;have
@@ -13,6 +13,6 @@ I&nbsp;have
 [answers](https://stackoverflow.com/users/6261650){:target="\_blank" rel="noopener"}
 related to my job topics 🤖 I&nbsp;have also
 [papers](https://scholar.google.de/citations?user=XnVpRFkAAAAJ){:target="\_blank" rel="noopener"}
-in the field of neuroscience 🧠
+in the fields of neuroscience and machine learning 🧠
 
 Thanks for visiting!

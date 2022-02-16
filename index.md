@@ -13,6 +13,6 @@ I&nbsp;have
 [answers](https://stackoverflow.com/users/6261650){:target="\_blank" rel="noopener"}
 related to my job topics 🤖 I&nbsp;have also
 [papers](https://scholar.google.de/citations?user=XnVpRFkAAAAJ){:target="\_blank" rel="noopener"}
-in the fields of neuroscience and machine learning 🧠
+in the field of neuroscience 🧠
 
 Thanks for visiting!

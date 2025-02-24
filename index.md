@@ -7,6 +7,7 @@ title: Hi!
 
 I am Vicente 👋 software/data engineer
 ([profile](https://www.linkedin.com/in/vreyespue/){:target="\_blank" rel="noopener"}) 👨‍💻
+my interests include backend/frontend automation, microservice architectures, distributed data processing and AI/ML systems 😎
 I&nbsp;write
 [tweets](https://twitter.com/vreyespue){:target="\_blank" rel="noopener"} and
 [commits](https://github.com/vreyespue){:target="\_blank" rel="noopener"}

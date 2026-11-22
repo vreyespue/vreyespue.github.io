@@ -7,7 +7,7 @@ title: Hi!
 
 I am Vicente 👋 software engineer
 ([profile](https://www.linkedin.com/in/vreyespue/){:target="\_blank" rel="noopener"}) 👨‍💻
-my main interests are backend microservice development, distributed data processing and agentic AI / ML systems 😎
+my main interests are backend microservices development, distributed data processing and agentic AI / ML systems 😎
 I&nbsp;write
 [tweets](https://twitter.com/vreyespue){:target="\_blank" rel="noopener"} and
 [commits](https://github.com/vreyespue){:target="\_blank" rel="noopener"}

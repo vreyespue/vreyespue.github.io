@@ -5,9 +5,9 @@ title: Hi!
 
 <img align="right" src="foto.jpg" width="140" style="border-radius:50%;margin-left:10px;margin-bottom:10px">
 
-I am Vicente 👋 software/data engineer
+I am Vicente 👋 software engineer
 ([profile](https://www.linkedin.com/in/vreyespue/){:target="\_blank" rel="noopener"}) 👨‍💻
-my main interests are backend automation, microservice architectures, distributed data processing and agentic AI/ML systems 😎
+my main interests are backend development, distributed data processing and agentic AI / ML systems 😎
 I&nbsp;write
 [tweets](https://twitter.com/vreyespue){:target="\_blank" rel="noopener"} and
 [commits](https://github.com/vreyespue){:target="\_blank" rel="noopener"}

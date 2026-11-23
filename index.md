@@ -11,7 +11,7 @@ feel free to look at my work
 I&nbsp;share
 [tweets](https://twitter.com/vreyespue){:target="\_blank" rel="noopener"} and code
 [commits](https://github.com/vreyespue){:target="\_blank" rel="noopener"}
-related to my interests 🤖 I&nbsp;also have
+related to my varied interests 🤖 I&nbsp;also have
 [papers](https://scholar.google.de/citations?user=XnVpRFkAAAAJ){:target="\_blank" rel="noopener"}
 in the field of neuroscience 🧠
 
